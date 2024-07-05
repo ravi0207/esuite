@@ -76,7 +76,7 @@ function GetIDS(objSelectedIDS) {
         } else {
             // duplicate tab   
             //alert(111)
-            window.location = "../Default/DuplicateTab.aspx";
+            window.location = "Default/DuplicateTab.aspx";
             //return;
         }
     })
