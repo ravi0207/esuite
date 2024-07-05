@@ -60,7 +60,7 @@ function GetIDS(objSelectedIDS) {
 }
 
 
-export  function CheckDuplicateTab() {
+ function CheckDuplicateTab() {
     //alert(localStorage.getItem('web_browser'))
     //localStorage.removeItem('web_browser');
     //alert(11)
